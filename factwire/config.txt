@@ -1,0 +1,1 @@
+{'host':'192.168.0.70\SQLEXPRESS','user':'sa','password':'data70','database':'HK818','proxies':'192.168.0.70','download_path':'./image','UserName':'na_chan','Password':'24692469','day_run':'12:00','table':'HKNEWSDATA_CHI_03','binary_location':'D:/代码/二月/chromium/chrome-win/chrome.exe','executable_path':'D:/代码/二月/chromium/chromedriver.exe'}
