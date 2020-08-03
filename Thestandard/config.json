@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "user": "sa",
+  "password": "root",
+  "databases": "HKNEWS",
+  "proxies": "192.168.0.70",
+  "path": "./image",
+  "table": "HKNEWSDATA_EN_01"
+}
