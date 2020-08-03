@@ -1,0 +1,1 @@
+{'host':'127.0.0.1','user':'sa','password':'root','database':'HKNEWS','proxies':'192.168.0.70:80','download_path':'./image','UserName':'na_chan03@yahoo.com.hk','Password':'971318','day_run':'12:00','table':'HKNEWSDATA_CHI_02'}

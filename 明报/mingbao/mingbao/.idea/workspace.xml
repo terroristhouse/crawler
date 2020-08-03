@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bdb22d0-c7e8-4cb7-ad3c-fc84e7a7408f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XV7hwEQUd4w7gPKmJOGunEg3H6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.crawl">
+    <configuration name="001.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mingbao/001.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="002.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mingbao/spiders/002.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ceshi (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mingbao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ceshi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mingbao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiders/ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mingbao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crawl" />
+        <item itemvalue="Python.ceshi (1)" />
+        <item itemvalue="JavaScript Debug.001.html" />
+        <item itemvalue="JavaScript Debug.002.html" />
+        <item itemvalue="Python.ceshi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bdb22d0-c7e8-4cb7-ad3c-fc84e7a7408f" name="Default Changelist" comment="" />
+      <created>1581119530750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581119530750</updated>
+      <workItem from="1581119532407" duration="11212000" />
+      <workItem from="1581132754351" duration="113000" />
+      <workItem from="1581293418593" duration="495000" />
+      <workItem from="1581294229797" duration="1438000" />
+      <workItem from="1581297765702" duration="9816000" />
+      <workItem from="1581314088449" duration="70000" />
+      <workItem from="1581321218553" duration="3079000" />
+      <workItem from="1581325225291" duration="63000" />
+      <workItem from="1581379061883" duration="3519000" />
+      <workItem from="1582849657452" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581129827602">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1581129827602" />
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1582849669433">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1582849669433" />
+    <state width="1237" height="197" key="GridCell.Tab.0.bottom" timestamp="1581392048876">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="197" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1581392048876" />
+    <state width="1237" height="197" key="GridCell.Tab.0.center" timestamp="1581392048876">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="197" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1581392048876" />
+    <state width="1237" height="197" key="GridCell.Tab.0.left" timestamp="1581392048876">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="197" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1581392048876" />
+    <state width="1237" height="197" key="GridCell.Tab.0.right" timestamp="1581392048876">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="197" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1581392048876" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581379117631">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1581379117631" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mingbao$ceshi__1_.coverage" NAME="ceshi (1) Coverage Results" MODIFIED="1581302020433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mingbao$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1581129498307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiders" />
+    <SUITE FILE_PATH="coverage/mingbao$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1581392048861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
