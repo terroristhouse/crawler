@@ -1,0 +1,1 @@
+{'host':'127.0.0.1','user':'sa','password':'root','databases':'facebook','proxies':'192.168.0.70','path':'D:\\代码\\March\\facebook','binary_location':'D:/代码/二月/chromium/chrome-win/chrome.exe','executable_path':'D:/代码/二月/chromium/chromedriver.exe','username':'xsnzp@126.com','password_fb':'zhoupeng520321'}
