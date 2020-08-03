@@ -1,0 +1,37 @@
+2020-05-19 14:55:41 [scrapy.core.scraper] ERROR: Error processing {'amount': '238',
+ 'auther': '李贺',
+ 'beiyong1': '',
+ 'category': None,
+ 'content': '我有辞乡剑，玉锋堪截云。\n襄阳走马客，意气自生春。\n朝嫌剑花净，暮嫌剑光冷。\n能持剑向人，不解持照身。\n',
+ 'contents': '襄阳：一作长安。-----------------------------------------诗刺游侠少年，知"持剑向人"，而不解照自身也。注：1：走马引：乐府旧题。《古今注》云："古走马引，樗里牧恭作也。为父报怨，杀人，亡匿山下，有天马夜降其室而鸣，闻其声以为 '
+             '吏追，乃奔走，旦视，乃天马迹也。因惕然大悟，曰：岂吾所处之将危乎？遂逃入沂泽，援琴为此引。"长吉此诗与旧题无关。2：我有辞乡剑，玉锋堪截云：我，游侠自谓也。辞乡剑，辞乡外出，游侠所佩剑也。玉锋，剑锋白凈如玉。截云，犹切云。《庄子 '
+             '》："上决浮云,下绝地纪。"3：襄阳走马客，意气自生春：梁武诗："照耀双阙下，知是襄阳儿。"谓游侠少年也。4：朝嫌剑花净，暮嫌剑光冷：太白诗："胡霜拂剑光。" '
+             '恨剑未得一试也。5：能持剑向人，不解持照身：当自省之意也。附：董懋策评曰：读此篇，觉"今日把似君，谁有不平事"，终是莽汉。利剑能制人，亦能𢦤身。能持剑以自照，斯善藏其用矣。--------凤尾竹客 '
+             '撰<李长吉歌诗笺注辑评>---------',
+ 'dynasty': ' [唐] ',
+ 'title': '走马引',
+ 'url': 'http://www.shicimingju.com/chaxun/list/54014.html'}
+Traceback (most recent call last):
+  File "D:\lf\sw\Python\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "D:\lf\sw\Python\lib\site-packages\scrapy\utils\defer.py", line 154, in f
+    return deferred_from_coro(coro_f(*coro_args, **coro_kwargs))
+  File "D:\lf\data\0518\scmjw\scmjw\pipelines.py", line 41, in process_item
+    self.cursor.execute(sql, tuple(data.values()))
+  File "D:\lf\sw\Python\lib\site-packages\pymysql\cursors.py", line 170, in execute
+    result = self._query(query)
+  File "D:\lf\sw\Python\lib\site-packages\pymysql\cursors.py", line 328, in _query
+    conn.query(q)
+  File "D:\lf\sw\Python\lib\site-packages\pymysql\connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "D:\lf\sw\Python\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result
+    result.read()
+  File "D:\lf\sw\Python\lib\site-packages\pymysql\connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "D:\lf\sw\Python\lib\site-packages\pymysql\connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "D:\lf\sw\Python\lib\site-packages\pymysql\protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "D:\lf\sw\Python\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1366, "Incorrect string value: '\\xF0\\xA2\\xA6\\xA4\\xE8\\xBA...' for column 'contents' at row 1")
