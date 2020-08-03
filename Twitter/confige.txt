@@ -1,0 +1,1 @@
+{'host':'127.0.0.1','user':'sa','password':'root','databases':'HKNEWS','comment_host':'192.168.0.17','comment_user':'sa','comment_password':'netsystem123','comment_databases':'Twitter','proxies':'192.168.0.70','path':'./image','binary_location':'D:/代码/二月/chromium/chrome-win/chrome.exe','executable_path':'D:/代码/二月/chromium/chromedriver.exe'}
